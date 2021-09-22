@@ -8,7 +8,7 @@
 + Warrior.
 + Archer.
 ------
-## Abilty :
+## Ability :
 + Warrior :
     + STR :★★★ 
 	 + HP  :★★★
