@@ -22,4 +22,4 @@
 + Then Enjoy it !!!!! 
 + Thank you.
 + I will Updated it.
-#### 2021/07/26 ~ 2021/08/17 (Finish it!)
+#### 2021/07/26 ~ 2021/08/17 (Finished it)
